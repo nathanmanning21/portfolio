@@ -141,7 +141,7 @@
     -webkit-transition-duration: 0.5s;
     transition-duration: 0.5s;
   }
-
+  .embed,
   .img-responsive-banner:hover,
   .img-responsive-banner:focus,
   .img-responsive-banner:active {
