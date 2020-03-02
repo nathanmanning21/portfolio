@@ -56,8 +56,29 @@
   padding-left: 25px;
   padding-right: 25px;
   margin-bottom: 50px;
+  height: 87px;
+}
+
+.second-section-portfolio .col-sm-12 p{
+  background-color:  #F4F4F4;
+  border: 15px;
+  font-family: 'Reem Kufi', sans-serif;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 50px;
+  font-size: 20px;
 
 }
+
+.second-section-portfolio .col-sm-12 img{
+  width: 100%;
+}
+
+
+
+
 
 .second-section {
     width: 100%;
